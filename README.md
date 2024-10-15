@@ -45,3 +45,9 @@ drive.mount('/content/gdrive/')
 ```py
 !kaggle competitions list
 ```
+![image](https://github.com/11024244/mid/blob/main/jpg/04.png)
+
+**下載資料集**：
+```py
+!kaggle datasets download -d paultimothymooney/kermany2018
+```
