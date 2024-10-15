@@ -29,8 +29,19 @@ drive.mount('/content/gdrive/')
 
 ![image](https://github.com/11024244/mid/blob/main/jpg/03.png)
 
-kaggle資料下載：
+**kaggle資料下載**：
 
-創建kaggle帳戶並下載kaggle.json檔。 創建帳戶這裡就不介紹了，創建完帳戶後在“我的帳戶”-“API”中選擇“CREATE NEW API TOKEN”，然後下載kaggle.json檔。
+創建**kaggle**帳戶並下載**kaggle.json**檔。 創建帳戶這裡就不介紹了，創建完帳戶後在“我的帳戶”-“API”中選擇“CREATE NEW API TOKEN”，然後下載**kaggle.json**檔。
 
-建立kaggle資料夾：
+**建立kaggle資料夾**：
+```py
+!mkdir -p ~/.kaggle
+```
+**將kaggle.json資料夾複製到指定資料夾**：
+```py
+!cp /content/gdrive/My\ Drive/kaggle.json ~/.kaggle/
+```
+**測試是否成功**：
+```py
+!kaggle competitions list
+```
