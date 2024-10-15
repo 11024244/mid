@@ -28,3 +28,9 @@ drive.mount('/content/gdrive/')
 按照提示進行驗證，結果如下：
 
 ![image](https://github.com/11024244/mid/blob/main/jpg/03.png)
+
+kaggle資料下載：
+
+創建kaggle帳戶並下載kaggle.json檔。 創建帳戶這裡就不介紹了，創建完帳戶後在“我的帳戶”-“API”中選擇“CREATE NEW API TOKEN”，然後下載kaggle.json檔。
+
+建立kaggle資料夾：
