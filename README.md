@@ -25,3 +25,4 @@ from google.colab import drive
 
 drive.mount('/content/gdrive/')
 ```
+按照提示進行驗證，結果如下：
