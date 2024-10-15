@@ -21,4 +21,5 @@
 **掛載資料夾**：
 
 `from google.colab import drive
+
 drive.mount('/content/gdrive/')`
