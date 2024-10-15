@@ -1,3 +1,9 @@
+# google-colab平台訓練模型案例
+南華大學 跨領域-人工智慧期中報告
+
+11024201 黃右孝
+
+11024244 黃威志
 # 數據集介紹
 
 ![image](https://github.com/11024244/mid/blob/main/jpg/01.png)
