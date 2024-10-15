@@ -57,7 +57,7 @@ drive.mount('/content/gdrive/')
 ```py
 !unzip "/content/OCT2017.zip" -d "/content/gdrive/My Drive"
 ```
-
+![image](https://github.com/11024244/mid/blob/main/jpg/06.png)
 
 # 數據讀取
 
