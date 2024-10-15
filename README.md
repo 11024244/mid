@@ -26,3 +26,5 @@ from google.colab import drive
 drive.mount('/content/gdrive/')
 ```
 按照提示進行驗證，結果如下：
+
+![image](https://github.com/11024244/mid/blob/main/jpg/03.png)
