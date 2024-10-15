@@ -39,7 +39,7 @@ drive.mount('/content/gdrive/')
 ```
 **將kaggle.json資料夾複製到指定資料夾**：
 ```py
-!cp /content/gdrive/My\ Drive/kaggle.json ~/.kaggle/
+!cp /content/gdrive/MyDrive/kaggle.json ~/.kaggle/
 ```
 **測試是否成功**：
 ```py
