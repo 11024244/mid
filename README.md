@@ -51,3 +51,9 @@ drive.mount('/content/gdrive/')
 ```py
 !kaggle datasets download -d paultimothymooney/kermany2018
 ```
+![image](https://github.com/11024244/mid/blob/main/jpg/05.png)
+
+**將文件解壓至google雲盤**：
+```py
+!unzip "/content/OCT2017.zip" -d "/content/gdrive/My Drive"
+```
