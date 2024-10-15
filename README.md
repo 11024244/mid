@@ -20,6 +20,8 @@
 
 **掛載資料夾**：
 
-`from google.colab import drive
+```py
+from google.colab import drive
 
-drive.mount('/content/gdrive/')`
+drive.mount('/content/gdrive/')
+```
