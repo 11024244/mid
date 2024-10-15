@@ -1,4 +1,5 @@
 數據集介紹
+***
 ![image](https://github.com/11024244/mid/blob/main/jpg/01.png)
 
 數據集來自Kaggle，品質很高，由知名醫院的專業人員嚴格審核標註，如圖所示數據有4種類別：
