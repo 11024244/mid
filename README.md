@@ -10,3 +10,4 @@
  •DRUSEN：早期AMD中存在多個玻璃疣
  
  •NORMAL：視網膜正常，沒有任何視網膜液或水腫
+![image](https://github.com/11024244/mid/blob/main/jpg/02.png)
